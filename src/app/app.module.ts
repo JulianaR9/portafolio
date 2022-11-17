@@ -10,6 +10,7 @@ import { ClasificacionComponent } from './components/clasificacion/clasificacion
 import { HorariosComponent } from './components/horarios/horarios.component';
 import { AlarmaComponent } from './components/alarma/alarma.component';
 import { PuntosComponent } from './components/puntos/puntos.component';
+import { RecoleccionComponent } from './components/recoleccion/recoleccion.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { PuntosComponent } from './components/puntos/puntos.component';
     ClasificacionComponent,
     HorariosComponent,
     AlarmaComponent,
-    PuntosComponent
+    PuntosComponent,
+    RecoleccionComponent
     
   ],
   imports: [
