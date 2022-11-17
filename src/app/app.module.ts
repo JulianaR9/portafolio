@@ -9,6 +9,7 @@ import { ContentComponent } from './components/content/content.component';
 import { ClasificacionComponent } from './components/clasificacion/clasificacion.component';
 import { HorariosComponent } from './components/horarios/horarios.component';
 import { AlarmaComponent } from './components/alarma/alarma.component';
+import { PuntosComponent } from './components/puntos/puntos.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { AlarmaComponent } from './components/alarma/alarma.component';
     ContentComponent,
     ClasificacionComponent,
     HorariosComponent,
-    AlarmaComponent
+    AlarmaComponent,
+    PuntosComponent
     
   ],
   imports: [
