@@ -31,8 +31,8 @@
 {
     float: left;
     position: relative;
-    width: 292px;
-    height: 292px;
+    width: 300px;
+    height: 300px;
     margin: 30px;
     margin-left: 160px;
     margin-top: 60px;
@@ -61,7 +61,8 @@
 .card .front img
 {
     
-    margin-left: 32px;
+    margin-left: 48px;
+    margin-top: 12px;
 }
 
 .card .front h3
