@@ -1,0 +1,75 @@
+
+
+/*estilos para Puntos Cercanos*/
+
+
+.titulo4
+{
+    text-align: center;
+    letter-spacing: 10px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+
+.caja1
+{
+    float: left;
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 120px;
+    
+}
+
+.caja2
+{
+    float: left;
+    width: 250px;
+    margin-left: 280px;
+    margin-top: 120px;
+    
+}.caja3
+{
+    float: left;
+    width: 250px;
+    margin-left: 280px;
+    margin-top: 120px;
+    
+}
+
+.subtitulo4
+{
+    background-color: rgba(154, 214, 154, 0.319);
+    border-radius: 8px;
+    height: 280px;
+    width: 400px;
+    margin-left: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.356);
+  
+}
+
+.puntos
+{
+    text-align: center;
+    padding: 15px 0;
+    letter-spacing: 2px;
+    margin-top: 35px;
+    color: white;
+    background: rgb(2, 151, 2);
+    text-align: center;
+    border-radius: 3px;
+   
+}
+
+.imagen4
+{
+    margin-top: 40px;
+    margin-left: 134px;
+}
+
+
+.imagen4:hover
+{
+    opacity: 0.5;
+    cursor: pointer;
+}
