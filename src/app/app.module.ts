@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { ContentComponent } from './components/content/content.component';
 import { ClasificacionComponent } from './components/clasificacion/clasificacion.component';
+import { HorariosComponent } from './components/horarios/horarios.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { ClasificacionComponent } from './components/clasificacion/clasificacion
     HeaderComponent,
     FooterComponent,
     ContentComponent,
-    ClasificacionComponent
+    ClasificacionComponent,
+    HorariosComponent
     
   ],
   imports: [
