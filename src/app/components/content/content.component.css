@@ -1,3 +1,4 @@
+
 /*estilos para el cuerpo clasificacion del reciclaje*/
 
 .titulo
@@ -33,7 +34,7 @@
     width: 320px;
     height: 320px;
     margin: 30px;
-    margin-left: 100px;
+    margin-left: 40px;
     margin-top: 60px;
     
 }
@@ -59,8 +60,7 @@
 
 .card .front img
 {
-    
-    margin-left: -35px;
+   height: 90%;
 }
 
 .card .front h3
@@ -73,6 +73,7 @@
     color: white;
     background: rgb(2, 151, 2);
     text-align: center;
+    
 }
 
 .card .back
