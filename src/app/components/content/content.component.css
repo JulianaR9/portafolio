@@ -7,6 +7,8 @@
     letter-spacing: 10px;
     margin-top: 60px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    color: rgb(5, 98, 5);
 }
 
 .caja
